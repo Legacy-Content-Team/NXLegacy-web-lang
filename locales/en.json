@@ -1,0 +1,208 @@
+{
+  "common": {
+    "back": "Back",
+    "backToGame": "Back to {{name}}",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "noGames": "No games found",
+    "viewMore": "View More",
+    "viewAll": "View All",
+    "refresh": "Refresh",
+    "download": "Download",
+    "play": "Play",
+    "pause": "Pause",
+    "search": "Search",
+    "searchHistory": "Search History",
+    "showing": "Showing {{count}} of {{total}} games",
+    "previous": "Previous",
+    "next": "Next",
+    "viewGallery": "View Gallery",
+    "version": "Version {{version}}",
+    "recentSearches": "Recent Searches",
+    "clear": "Clear",
+    "reset": "Reset Filters",
+    "active": "Active",
+    "randomGame": "Random Game",
+    "page": "Page {{current}} of {{total}}",
+    "noResults": "No results found",
+    "copied": "Copied to clipboard!",
+    "share": "Share"
+  },
+
+  "nav": {
+    "home": "Home",
+    "allGames": "All Games",
+    "search": "Search",
+    "settings": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "news": "News"
+  },
+
+  "footer": {
+    "rss": "RSS Feed",
+    "disclaimer": "Nintendo Switch and all related games are trademarks of Nintendo."
+  },
+
+  "home": {
+    "latestGames": "Latest Games",
+    "noGamesAvailable": "No games available",
+    "topGames": "Featured Games",
+    "randomGames": "Random Games",
+    "latestNews": "Latest News",
+    "featuredGames": "Featured Games",
+    "exploreMore": "Explore More",
+    "recentlyAdded": "Recently Added",
+    "popularGames": "Popular Games",
+    "upcomingGames": "Upcoming Games"
+  },
+
+  "games": {
+    "filters": {
+      "title": "Filters",
+      "category": "Category",
+      "allCategories": "All Categories",
+      "publisher": "Publisher",
+      "allPublishers": "All Publishers",
+      "sortBy": "Sort By",
+      "search": "Search by name, TID, or publisher...",
+      "players": "Players",
+      "language": "Language",
+      "allLanguages": "All Languages",
+      "ascending": "Ascending",
+      "descending": "Descending",
+      "searchPlaceholder": "Type to search..."
+    },
+    "sort": {
+      "name": "Name",
+      "dateAdded": "Date Added",
+      "releaseDate": "Release Date",
+      "views": "Most Viewed",
+      "downloads": "Most Downloaded",
+      "size": "Size",
+      "random": "Random"
+    },
+    "players": {
+      "any": "Any Number",
+      "single": "Single Player",
+      "two": "2 Players",
+      "upToFour": "Up to 4",
+      "upToEight": "Up to 8"
+    }
+  },
+
+  "game": {
+    "about": "Description",
+    "introduction": "Introduction",
+    "details": {
+      "title": "Details",
+      "players": "Players",
+      "languages": "Languages",
+      "releaseDate": "Release Date",
+      "publisher": "Publisher",
+      "version": "Version",
+      "size": "Size",
+      "rating": "Rating",
+      "upToPlayers": "Up to {{count}} players"
+    },
+    "downloads": {
+      "title": "Downloads",
+      "baseGame": "Base Game",
+      "updates": "Updates",
+      "dlc": "DLC Content",
+      "dlcPack": "DLC Pack",
+      "dlcDescription": "{{count}} downloadable content items available",
+      "noDLCs": "No DLC content available",
+      "viewAllDLCs": "View All DLCs ({{count}})",
+      "latestUpdate": "Latest Update",
+      "allUpdates": "All Updates",
+      "viewAllUpdates": "View All Updates",
+      "version": "Version",
+      "downloadFrom": "Download from {{provider}}",
+      "goToDownloads": "Go to Downloads",
+      "noDownloads": "No downloads available",
+      "addedOn": "Added on {{date}}",
+      "dlcAvailable": "{{count}} DLC items available"
+    },
+    "screenshots": {
+      "title": "Screenshots",
+      "view": "View Screenshots",
+      "back": "Back to Description"
+    },
+    "similarGames": "Similar Games You Might Like",
+    "dlc": {
+      "title": "Downloadable Content",
+      "searchDLCs": "Search DLCs by name or ID...",
+      "filter": {
+        "all": "All DLCs",
+        "free": "Free DLCs",
+        "paid": "Paid DLCs"
+      },
+      "sortBy": {
+        "name": "Name",
+        "releaseDate": "Release Date",
+        "size": "Size"
+      },
+      "noDLCsFound": "No DLCs found",
+      "tid": "Title ID",
+      "size": "Size",
+      "releaseDate": "Release Date",
+      "addedDate": "Added Date",
+      "downloads": "Downloads",
+      "downloadFrom": "Download from {{provider}}"
+    }
+  },
+
+  "news": {
+    "filters": {
+      "category": "Filter by Category",
+      "all": "All Categories",
+      "title": "News Filters",
+      "date": "Date",
+      "sortBy": "Sort By"
+    },
+    "categories": {
+      "news": "News",
+      "guides": "Guides",
+      "announcements": "Announcements",
+      "updates": "Updates"
+    },
+    "sort": {
+      "newest": "Newest First",
+      "oldest": "Oldest First",
+      "popular": "Most Popular"
+    },
+    "noArticles": "No articles found in this category",
+    "readMore": "Read More",
+    "readingTime": "{{minutes}} min read",
+    "publishedOn": "Published on {{date}}",
+    "relatedArticles": "Related Articles",
+    "shareArticle": "Share Article",
+    "tableOfContents": "Table of Contents",
+    "latestNews": "Latest News",
+    "viewAllNews": "View All News",
+    "allNews": "All News",
+    "author": "Written by {{name}}",
+    "category": "Category",
+    "tags": "Tags",
+    "share": {
+      "title": "Share",
+      "twitter": "Twitter",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "copy": "Copy link",
+      "copied": "Link copied!"
+    }
+  },
+
+  "errors": {
+    "notFound": "Page not found",
+    "gameNotFound": "Game not found",
+    "newsNotFound": "Article not found",
+    "serverError": "Server error",
+    "offline": "You are offline",
+    "tryAgain": "Please try again"
+  }
+}

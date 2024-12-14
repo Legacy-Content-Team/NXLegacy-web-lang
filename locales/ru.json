@@ -1,0 +1,212 @@
+{
+  "common": {
+    "back": "Назад",
+    "backToGame": "Назад к {{name}}",
+    "close": "Закрыть",
+    "loading": "Загрузка...",
+    "error": "Произошла ошибка",
+    "retry": "Повторить",
+    "noGames": "Игры не найдены",
+    "viewMore": "Посмотреть больше",
+    "viewAll": "Посмотреть все",
+    "refresh": "Обновить",
+    "download": "Скачать",
+    "play": "Играть",
+    "pause": "Пауза",
+    "search": "Поиск",
+    "searchHistory": "История поиска",
+    "showing": "Показано {{count}} из {{total}} игр",
+    "previous": "Предыдущая",
+    "next": "Следующая",
+    "viewGallery": "Просмотреть галерею",
+    "version": "Версия {{version}}",
+    "recentSearches": "Недавние поиски",
+    "clear": "Очистить",
+    "reset": "Сбросить фильтры",
+    "active": "Активный",
+    "randomGame": "Случайная игра",
+    "page": "Страница {{current}} из {{total}}",
+    "noResults": "Результаты не найдены",
+    "copied": "Скопировано в буфер обмена!",
+    "share": "Поделиться"
+  },
+
+  "nav": {
+    "home": "Главная",
+    "allGames": "Все игры",
+    "search": "Поиск",
+    "settings": "Настройки",
+    "language": "Язык",
+    "theme": "Тема",
+    "news": "Новости"
+  },
+
+  "footer": {
+    "rss": "RSS-лента",
+    "disclaimer": "Nintendo Switch и все связанные игры являются товарными знаками Nintendo."
+  },
+
+  "home": {
+    "latestGames": "Последние игры",
+    "noGamesAvailable": "Нет доступных игр",
+    "topGames": "Рекомендуемые игры",
+    "randomGames": "Случайные игры",
+    "latestNews": "Последние новости",
+    "featuredGames": "Рекомендуемые игры",
+    "exploreMore": "Исследовать больше",
+    "recentlyAdded": "Недавно добавленные",
+    "popularGames": "Популярные игры",
+    "upcomingGames": "Предстоящие игры"
+  },
+
+  "games": {
+    "filters": {
+      "title": "Фильтры",
+      "category": "Категория",
+      "allCategories": "Все категории",
+      "publisher": "Издатель",
+      "allPublishers": "Все издатели",
+      "sortBy": "Сортировать по",
+      "search": "Поиск по названию, TID или издателю...",
+      "players": "Игроки",
+      "language": "Язык",
+      "allLanguages": "Все языки",
+      "ascending": "По возрастанию",
+      "descending": "По убыванию",
+      "searchPlaceholder": "Начните ввод для поиска..."
+    },
+    "sort": {
+      "name": "Название",
+      "dateAdded": "Дата добавления",
+      "releaseDate": "Дата выхода",
+      "views": "Наиболее просматриваемые",
+      "downloads": "Наиболее скачиваемые",
+      "size": "Размер",
+      "random": "Случайно"
+    },
+    "players": {
+      "any": "Любое количество",
+      "single": "Одиночная игра",
+      "two": "2 игрока",
+      "upToFour": "До 4",
+      "upToEight": "До 8"
+    }
+  },
+
+  "game": {
+    "about": "Описание",
+    "introduction": "Введение",
+    "details": {
+      "title": "Детали",
+      "players": "Игроки",
+      "languages": "Языки",
+      "releaseDate": "Дата выхода",
+      "publisher": "Издатель",
+      "version": "Версия",
+      "size": "Размер",
+      "rating": "Рейтинг",
+      "upToPlayers": "До {{count}} игроков"
+    },
+    "downloads": {
+      "title": "Загрузки",
+      "baseGame": "Основная игра",
+      "updates": "Обновления",
+      "dlc": "Контент DLC",
+      "dlcPack": "Набор дополнений",
+      "dlcDescription": "Доступно {{count}} загрузочных материалов",
+      "noDLCs": "Контент DLC недоступен",
+      "viewAllDLCs": "Просмотреть все дополнения ({{count}})",
+      "latestUpdate": "Последнее обновление",
+      "allUpdates": "Все обновления",
+      "viewAllUpdates": "Просмотреть все обновления",
+      "version": "Версия",
+      "downloadFrom": "Скачать с {{provider}}",
+      "goToDownloads": "Перейти к загрузкам",
+      "noDownloads": "Загрузки недоступны",
+      "addedOn": "Добавлено {{date}}",
+      "dlcAvailable": "Доступно {{count}} DLC"
+    },
+    "screenshots": {
+      "title": "Скриншоты",
+      "view": "Просмотреть скриншоты",
+      "back": "Назад к описанию"
+    },
+    "similarGames": "Похожие игры, которые вам могут понравиться",
+    "dlc": {
+      "title": "Загружаемый контент",
+      "searchDLCs": "Поиск DLC по названию или ID...",
+      "filter": {
+        "all": "Все DLC",
+        "free": "Бесплатные DLC",
+        "paid": "Платные DLC"
+      },
+      "sortBy": {
+        "name": "Название",
+        "releaseDate": "Дата выхода",
+        "size": "Размер"
+      },
+      "noDLCsFound": "DLC не найдены",
+      "tid": "ID названия",
+      "size": "Размер",
+      "releaseDate": "Дата выхода",
+      "addedDate": "Дата добавления",
+      "downloads": "Загрузки",
+      "downloadFrom": "Скачать с {{provider}}"
+    }
+  },
+
+  "news": {
+    "filters": {
+      "category": "Фильтр по категории",
+      "all": "Все категории",
+      "title": "Фильтры новостей",
+      "date": "Дата",
+      "sortBy": "Сортировать по"
+    },
+    "categories": {
+      "news": "Новости",
+      "новости": "Новости",
+      "guides": "Руководства",
+      "руководства": "Руководства",
+      "announcements": "Объявления",
+      "объявления": "Объявления",
+      "updates": "Обновления",
+      "обновления": "Обновления"
+    },
+    "sort": {
+      "newest": "Сначала новые",
+      "oldest": "Сначала старые",
+      "popular": "Самые популярные"
+    },
+    "noArticles": "В этой категории статьи не найдены",
+    "readMore": "Читать далее",
+    "readingTime": "{{minutes}} мин чтения",
+    "publishedOn": "Опубликовано {{date}}",
+    "relatedArticles": "Связанные статьи",
+    "shareArticle": "Поделиться статьей",
+    "tableOfContents": "Содержание",
+    "latestNews": "Последние новости",
+    "viewAllNews": "Посмотреть все новости",
+    "allNews": "Все новости",
+    "author": "Автор {{name}}",
+    "category": "Категория",
+    "tags": "Теги",
+    "share": {
+      "title": "Поделиться",
+      "twitter": "Twitter",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "copy": "Скопировать ссылку",
+      "copied": "Ссылка скопирована!"
+    }
+  },
+
+  "errors": {
+    "notFound": "Страница не найдена",
+    "gameNotFound": "Игра не найдена",
+    "newsNotFound": "Статья не найдена",
+    "serverError": "Ошибка сервера",
+    "offline": "Вы офлайн",
+    "tryAgain": "Пожалуйста, попробуйте снова"
+  }
+}
